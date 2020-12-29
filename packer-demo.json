@@ -9,6 +9,7 @@
     "secret_key": "{{user `aws_secret_key`}}",
     "region": "us-west-2",
     "source_ami": "ami-038e6b679579b4ec1",
+    "subnet_id": "subnet-03e20a883a42998c3",
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
     "ami_name": "packer-nodejs-demo {{timestamp}}"
