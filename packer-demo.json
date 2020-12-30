@@ -10,7 +10,7 @@
     "region": "us-west-2",
     "source_ami": "ami-00f1e37d20049f858",
     "vpc_id": "vpc-0c15e05ce961cc73b",
-    "subnet_id": "subnet-00f797655a10307ae",
+    "subnet_id": "subnet-03e20a883a42998c3",
     "instance_type": "t2.micro",
     "ssh_username": "ubuntu",
     "ami_name": "packer-nodejs-demo {{timestamp}}"
